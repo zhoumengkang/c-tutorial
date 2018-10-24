@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [初识 C 语言](README.md)
 
