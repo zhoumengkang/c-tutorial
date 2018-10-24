@@ -15,5 +15,9 @@ brew cask install vagrant
 
 ![&#x5B89;&#x88C5; vritulbox &#x9700;&#x8981;&#x653E;&#x5F00;&#x6743;&#x9650;&#x62E6;&#x622A;&#xFF0C;&#x5426;&#x5219;&#x5B89;&#x88C5;&#x5931;&#x8D25;](.gitbook/assets/image.png)
 
- 
+## 安装 ubuntu
+
+{% embed url="https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/18.10/ubuntu-18.10-desktop-amd64.iso" %}
+
+
 
