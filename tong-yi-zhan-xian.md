@@ -6,7 +6,6 @@
 
 ```text
 brew cask install virtualbox
-brew cask install vagrant
 ```
 
 ### mac 安装方式二
